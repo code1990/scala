@@ -26,7 +26,7 @@ public class App {
             if (jsonObject != null) {
 //                System.out.println(jsonObject);
                 com.alibaba.fastjson.JSONObject object = JSON.parseObject(jsonObject.get("rating").toString());
-                System.out.println(object.get("average")+"("+object.get("numRaters")+"人评价)");
+                System.out.println(str+"\t"+object.get("average")+"("+object.get("numRaters")+"人评价)");
                 try {
                     Thread.sleep(2000);
                 } catch (InterruptedException e) {
