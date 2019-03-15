@@ -3,26 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="3978cc79-2d9f-4ac9-8d3a-441689f63a6a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/src/main/scala/App.java" afterPath="$PROJECT_DIR$/HelloWorld/src/main/scala/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/11_set.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/11_set.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/12_maptolist.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/12_maptolist.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/13_scan.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/13_scan.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/14_zip.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/14_zip.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/15_iter.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/15_iter.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/16_stream.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/16_stream.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/17_view.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/17_view.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/18_concurrent.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/18_concurrent.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/6_mapjava.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/6_mapjava.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/7_tuple.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/7_tuple.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/8_queue.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/8_queue.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch03/9_stack.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch03/9_stack.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/1_switch.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/1_switch.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/2_guard.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/2_guard.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/3_var.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/3_var.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/4_type.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/4_type.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/10_copy.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/10_copy.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/11_mvalue.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/11_mvalue.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/12_nest.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/12_nest.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/14_enum.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/14_enum.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/15_partial.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/15_partial.sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/5_bind.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/5_bind.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/seal_13/Amount.scala" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/seal_13/Amount.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/seal_13/Euro.scala" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/seal_13/Euro.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/6_unapply.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/6_unapply.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/7_var.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/7_var.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/8_for.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/8_for.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch04/9_case.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch04/9_case.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/1_var.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/1_var.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/2_anonymity.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/2_anonymity.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/3_high.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/3_high.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/4_infer.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/4_infer.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/5_closure.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/5_closure.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/6_currying.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/6_currying.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch05/7_abstract.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch05/7_abstract.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/1_class.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/1_class.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/2_getter.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/2_getter.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/3_private.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/3_private.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/4_bean.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/4_bean.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/5_constructor.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/5_constructor.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_object.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_object.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_outer.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_outer.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch07/1_single.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch07/1_single.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch07/2_object.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch07/2_object.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch07/3_apply.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch07/3_apply.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch07/4_main.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch07/4_main.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/src/main/scala/ch07/5_enum.sc" afterPath="$PROJECT_DIR$/Practice/src/main/scala/ch07/5_enum.sc" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,81 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5_bind.sc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/5_bind.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6_unapply.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/6_unapply.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7_var.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/7_var.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="8_for.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/8_for.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9_case.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/9_case.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10_copy.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/10_copy.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorld.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/scala/HelloWorld.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/scala/App.java">
+      <file leaf-file-name="4_main.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch07/4_main.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -140,28 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/HelloWorld/src/main/scala/HelloWorld.scala" />
-        <option value="$PROJECT_DIR$/Practice/Practice.iml" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/test.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/1_declare.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/6_option.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/3_operator.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/2_type.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/4_call.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch01/5_apply.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/1_ifelse.sc" />
-        <option value="$PROJECT_DIR$/HelloWorld/pom.xml" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/2_inout.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/3_while.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/4_for.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/5_function.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/6_lazy.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch02/7_exception.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/10_list.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/1_array.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/2_arraytransform.sc" />
-        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/3_dimensions.sc" />
         <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/4_arrayjava.sc" />
         <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/5_map.sc" />
         <option value="$PROJECT_DIR$/Practice/src/main/scala/ch03/6_mapjava.sc" />
@@ -184,6 +102,35 @@
         <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/4_type.sc" />
         <option value="$PROJECT_DIR$/HelloWorld/src/main/scala/App.java" />
         <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/5_bind.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/6_unapply.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/7_var.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/8_for.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/9_case.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/10_copy.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/11_mvalue.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/12_nest.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/14_enum.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch04/15_partial.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/1_var.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/2_anonymity.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/3_high.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/5_closure.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/4_infer.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/6_currying.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch05/7_abstract.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/1_class.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/2_getter.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/3_private.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/4_bean.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/5_constructor.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_object.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_outer.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch07/5_enum.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch07/1_single.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch07/2_object.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch07/3_apply.sc" />
+        <option value="$PROJECT_DIR$/Practice/src/main/scala/ch07/4_main.sc" />
       </list>
     </option>
   </component>
@@ -211,10 +158,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="554" />
-    <option name="y" value="153" />
+    <option name="x" value="-145" />
+    <option name="y" value="54" />
     <option name="width" value="1382" />
-    <option name="height" value="713" />
+    <option name="height" value="607" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -234,6 +181,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,89 +195,49 @@
             <path>
               <item name="scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="ch07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-              <item name="seal_13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -509,12 +420,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="153" width="1382" height="713" extended-state="0" />
+    <frame x="-145" y="54" width="1382" height="607" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270869" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32553956" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -546,180 +457,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/Practice.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/test.sc" />
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/1_declare.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/2_type.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/4_call.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/3_operator.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/5_apply.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch01/6_option.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1034">
-          <caret line="98" column="26" lean-forward="false" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/1_ifelse.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/2_inout.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/3_while.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/4_for.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/5_function.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/6_lazy.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch02/7_exception.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch03/1_array.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch03/2_arraytransform.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch03/3_dimensions.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch03/4_arrayjava.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch03/5_map.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch03/7_tuple.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -783,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,46 +587,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/5_bind.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/6_unapply.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="772">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/7_var.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/8_for.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/9_case.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/10_copy.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -915,18 +646,202 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/scala/App.java">
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/11_mvalue.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        <state relative-caret-position="178">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/5_bind.sc">
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/12_nest.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="137">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/14_enum.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch04/15_partial.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/main/scala/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="31" column="50" lean-forward="false" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/1_var.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/2_anonymity.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/3_high.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/5_closure.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/4_infer.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/6_currying.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch05/7_abstract.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/1_class.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/2_getter.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/4_bean.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/5_constructor.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_object.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/3_private.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch06/6_subclass_outer.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch07/5_enum.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch07/1_single.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch07/2_object.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch07/3_apply.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/main/scala/ch07/4_main.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
       </provider>
