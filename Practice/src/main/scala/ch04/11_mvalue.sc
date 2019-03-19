@@ -1,3 +1,7 @@
+/*5.11 Case 语句的中置表达式
+如果 unapply 方法产出一个元组，你可以在 case 语句中使用中置表示
+法。比如可以匹配一个 List 序列，可以如下表示：
+*/
 case class Currency(value: Double, unit: String)
 
 val amt = Currency(1000.0, "EUR")

@@ -1,3 +1,6 @@
+/*5.14 模拟枚举
+样例类可以模拟出枚举类型，如下：
+*/
 sealed abstract class TrafficLightColor
 
 case object Red extends TrafficLightColor

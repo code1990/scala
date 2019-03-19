@@ -1,3 +1,8 @@
+/*8.3 Apply 方法
+我们通常会定义和使用对象的 apply 方法，当遇到如下形式时：
+Object(参数 1、参数 2、参数….)
+会调用 apply 方法。Apply 方法一般都声明在伴生对象中。
+*/
 Array.apply("Mary","had","a","little","money")
 Array(Array(1,2),Array(3,4))
 Array(100)

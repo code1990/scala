@@ -1,3 +1,11 @@
+/*模式如何匹配数组、列表和元组的，这个背后的机制叫做提取器，一个
+对象如果带有从对象中提取值的 unapply 和 unapplySeq 方法，apply 方法接受
+构造参数，生成对象；而 unapply 方法接受对象，提取值，是一个反向操作。
+到底什么时候用 unapply 什么时候用 unapplySeq，要看参数个数。
+注意：如果要提取单个值，则应该返回一个目标类型的 Option，例如
+Option[Int]，而不是 Option[(Int)];无参数的提取器可以用于 boolean检查。
+
+*/
 val arr = Array(0,1)
 val Array(x,y)=arr
 val Array(z,_*)=arr

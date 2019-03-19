@@ -7,7 +7,7 @@ for (arr <- Array(Array(0), Array(1, 0), Array(0, 1, 0), Array(1, 1, 0))) {
     }
     println(result)
 }
-
+/*集合元素通过匹配绑定到变量，这样的操作叫做“析构”。*/
 //匹配列表
 for (lst <- Array(List(0), List(1, 0), List(0, 0, 0), List(1, 0, 0))) {
     val result = lst match {

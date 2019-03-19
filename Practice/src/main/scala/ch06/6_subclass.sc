@@ -23,6 +23,11 @@ fred.contacts += wlima
 val barney = myFace.join("Barney")
 //fred.contacts += barney
 
+/*7.6 嵌套类
+在 Scala 中，你几乎可以在任何语法结构中嵌套任何语法结构，在函数
+中定义函数，在类中定义类。Java 中的内部类从属于外部类。Scala 中每一个
+实例都有一个内部类，内部类从属于实例。
+*/
 class Network1{
     class Member(val name:String){
         val contacts = new ArrayBuffer[Network1#Member]()

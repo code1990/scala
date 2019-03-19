@@ -1,3 +1,7 @@
+/*5.9 样例类
+样例类首先是类，除此之外它是为模式匹配而优化的类，样例类用 case
+关键字进行声明
+*/
 abstract class Amount
 case class Dollar(value:Double) extends Amount
 case class Currency(value:Double, unit: String) extends Amount

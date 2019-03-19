@@ -1,3 +1,7 @@
+/*5.12 匹配嵌套结构
+样例类经常被用于嵌套结构。例如，某个商店售卖的物品，有时，会将
+多个物品一起打着出售，我们有以下抽象：
+*/
 abstract class Item
 
 case class Article(description: String, price: Double) extends Item

@@ -1,3 +1,7 @@
+/*8.5 枚举
+Scala 中没有枚举类型，定义一个扩展 Enumeration 类的对象，并以 value
+调用初始化枚举中的所有可能值。
+*/
 object TrafficLightColor extends Enumeration{
     val Red,Yellow,Green = Value
 }

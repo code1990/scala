@@ -1,3 +1,6 @@
+/*5.4 类型模式
+你可以对表达式的类型进行匹配，例如：
+*/
 for(obj <-Array(42,"42",BigInt(42),BigInt,42.0)){
     val result = obj match {
         case x:Int =>x
@@ -20,3 +23,9 @@ for(obj <-Array(Map("Fred"->42),Map(42->"Fred"),Array(42),Array("Fred"))){
 
     println(result)
 }
+/*通过这种方式，obj 被当做 Int 类型绑定到了 x 变量，或者当做 String 类
+型绑定到了 s 变量，避免了使用 isInstanceOf 和 asInstanceOf 方法。
+在匹配类型的时候，必须要设置一个变量名。
+匹配操作发生在运行期，所以不能比对一个泛型类型，但是可以使用通
+配符。但是对于数组来说，类型信息保存完好，你完全可以匹配 Array[Int]
+*/

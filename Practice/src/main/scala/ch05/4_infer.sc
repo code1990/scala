@@ -1,3 +1,6 @@
+/*6.4 参数（类型）推断
+匿名函数参数的类型推断
+*/
 def valueAtOneQuarter(f:(Double)=>Double)=f(0.25)
 
 //传入函数表达式

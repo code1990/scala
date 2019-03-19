@@ -4,6 +4,10 @@ def runInThread(block:()=>Unit): Unit ={
     }.start()
 }
 //传入函数
+/*6.7 控制抽象
+控制抽象是一类函数：1、参数是函数。2、函数参数没有输入值也没有
+返回值。
+*/
 runInThread { () => println("Hi") ; Thread.sleep(10000); println("Bye") }
 
 def runInThread(block: =>Unit){

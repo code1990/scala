@@ -1,3 +1,6 @@
+/*5.8 For 表达式中的模式
+在 for 表达式中使用提取器：
+*/
 import scala.collection.JavaConverters._
 
 for((k,v)<-System.getProperties.asScala)println(k+"=>"+v)
