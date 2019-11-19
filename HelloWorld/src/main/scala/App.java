@@ -5,7 +5,7 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
-import scala.util.parsing.json.JSONObject;
+//import scala.util.parsing.json.JSONObject;
 //import sun.net.www.http.HttpClient;
 //import sun.rmi.runtime.Log;
 
