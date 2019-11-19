@@ -12,7 +12,7 @@
     <artifactId>AkkaSystem</artifactId>
 
     <properties>
-        <actor.version>2.5.4</actor.version>
+        <actor.version>2.5.26</actor.version>
     </properties>
 
     <dependencies>
