@@ -10,29 +10,19 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>HelloWorld</module>
-        <module>Practice</module>
-        <module>AkkaSystem</module>
+        <module>baseTest</module>
     </modules>
 
     <properties>
         <scala.version>2.11.8</scala.version>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.scala-lang</groupId>
-            <artifactId>scala-library</artifactId>
-            <version>${scala.version}</version>
-            <scope>provided</scope>
-        </dependency>
-    </dependencies>
 
-    <build>
+    <!--<build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <!--maven 编译 -->
+                &lt;!&ndash;maven 编译 &ndash;&gt;
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.6.1</version>
                 <configuration>
@@ -41,7 +31,7 @@
                 </configuration>
             </plugin>
             <plugin>
-                <!-- scala maven 混合开发-->
+                &lt;!&ndash; scala maven 混合开发&ndash;&gt;
                 <groupId>net.alchim31.maven</groupId>
                 <artifactId>scala-maven-plugin</artifactId>
                 <version>3.2.2</version>
@@ -74,5 +64,5 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-    </build>
+    </build>-->
 </project>
