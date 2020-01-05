@@ -1,6 +1,20 @@
 import org.scalatest.FunSuite
 
 class Chapter05Test extends FunSuite {
+  def valueAtOneQuarter(f: (Double) => Double) = f(0.25)
+
+  def mulBy(factor: Double) = (x: Double) => factor * x
+
+  def mulOneAtATime(x: Int) = (y: Int) => x * y
+
+  // 这种叫控制抽象  函数
+  def runInThread(block: => Unit) {
+    new Thread {
+      override def run() {
+        block
+      }
+    }.start()
+  }
 
   test("core01") {
     //作为参数的高阶函数
@@ -62,17 +76,3 @@ class Chapter05Test extends FunSuite {
 
 }
 
-def valueAtOneQuarter(f: (Double) => Double) = f(0.25)
-
-def mulBy(factor: Double) = (x: Double) => factor * x
-
-def mulOneAtATime(x: Int) = (y: Int) => x * y
-
-// 这种叫控制抽象  函数
-def runInThread(block: => Unit) {
-  new Thread {
-    override def run() {
-      block
-    }
-  }.start()
-}
