@@ -183,15 +183,6 @@ class Chapter04Test extends FunSuite {
     }
     f('-')
   }
-  test("core16") {
-
-  }
-  test("core17") {
-
-  }
-  test("core18") {
-
-  }
 
 }
 
