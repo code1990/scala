@@ -37,3 +37,8 @@ object Chapter07Test {
 object Hello extends App {
   println("HelloWorld")
 }
+
+//枚举类
+object TrafficLightColor extends Enumeration {
+  val Red, Yellow, Green = Value
+}
